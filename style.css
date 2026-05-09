@@ -1,0 +1,37 @@
+*{
+    margin: 
+    0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+main{height: 100%;
+    width: 100%;
+    background-color:#d5ff40; ;
+}
+h1{text-align: center;
+ padding: 50px;
+font-size: 405%;
+color: #ffff;}
+#hatstruck{text-align: left;
+font-size: 150%;
+padding: 150px;
+color: #ffff;}
+h2{
+    text-align: center;
+    color: #ffff;
+    font-size: 300%;
+    padding-top: 100px;
+}
+img{height:600px;
+width: 750px;
+background-color: #d5ff40;
+padding: 10px;}
+p{text-align: center;
+font-size: x-large;}
